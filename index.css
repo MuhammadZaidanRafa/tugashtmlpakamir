@@ -1,0 +1,23 @@
+<html>
+
+<head>
+
+<title>Kepala Web Embedded</title>
+
+</head>
+
+<style>body {background:#yellow; color:blue; margin-left:0.5in}h1 {font-size:18pt; color:red}p {font-size:12pt; font-family:arial; text-indent:0.5in}
+
+</style>
+
+ <body>
+
+<h1 id="contoh1">Judul ini berukuran 18 dengan warna merah</h1>
+
+<p id="contoh2">Tag p ini di format dengan besar font 12 point dengan tipe font Arial dan mempunyai identasi 0.5 inch. </p>
+
+<p id="contoh3">Yang perlu diperhatikan juga bahwa body disini telah diformat dengan margin kiri 0.5 inch dan warna background warna kuning.</p>
+
+</body>
+
+</html>

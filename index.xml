@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="belajar.xsl">
+ 
+<Film>
+<Judul>Transformers 4</Judul>
+<genre>Action<genre>
+<durasi>90:00:00</durasi>
+<size>1 Gb</size>
+</Film>
